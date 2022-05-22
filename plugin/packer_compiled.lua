@@ -124,6 +124,21 @@ _G.packer_plugins = {
     path = "/home/thomppa/.local/share/nvim/site/pack/packer/start/packer.nvim",
     url = "https://github.com/wbthomason/packer.nvim"
   },
+  tagbar = {
+    loaded = true,
+    path = "/home/thomppa/.local/share/nvim/site/pack/packer/start/tagbar",
+    url = "https://github.com/preservim/tagbar"
+  },
+  ["vim-commentary"] = {
+    loaded = true,
+    path = "/home/thomppa/.local/share/nvim/site/pack/packer/start/vim-commentary",
+    url = "https://github.com/tpope/vim-commentary"
+  },
+  ["vim-surround"] = {
+    loaded = true,
+    path = "/home/thomppa/.local/share/nvim/site/pack/packer/start/vim-surround",
+    url = "https://github.com/tpope/vim-surround"
+  },
   ["vim-vsnip"] = {
     loaded = true,
     path = "/home/thomppa/.local/share/nvim/site/pack/packer/start/vim-vsnip",
